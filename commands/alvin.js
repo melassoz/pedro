@@ -1,7 +1,7 @@
 module.exports = {
     name: "alvin", //nome do comando
     description: "nene", //descrição do comando
-    aliases: ["cumero"],
+    aliases: ["alves"],
     run: async(client, message, args) => { //funções do comando
         
         message.channel.send({
